@@ -7,6 +7,7 @@ The purpose of this project was to learn and put into practice the storytelling 
 You can see the code and dataset on kaggle: 
 
 https://www.kaggle.com/code/mlippo/py-the-young-in-wealth
+
 https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset
 
 Regards!!
