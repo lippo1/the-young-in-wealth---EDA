@@ -5,6 +5,8 @@ Last year, I made an EDA on the same dataset, but that notebook was very bad, be
 The purpose of this project was to learn and put into practice the storytelling used in many notebooks and to extract as many informations I can)
 
 You can see the code and dataset on kaggle: 
+
 https://www.kaggle.com/code/mlippo/py-the-young-in-wealth
 https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset
+
 Regards!!
